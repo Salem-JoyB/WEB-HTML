@@ -1,0 +1,23 @@
+h1 {
+	color: red;
+	text-align: left;
+  border: 5px dashed blue;
+}
+.title{
+  color:rgb(0, 0, 0)
+}
+
+/* mouse over element */
+a:hover {
+  color: tomato;
+} 
+.navbar {
+  display: flex;
+  justify-content: space-around;
+  font-family:
+}
+.navbar {
+  font-family: "Roboto", sans-serif;
+  font-weight: 700;
+  font-style: normal;
+}
